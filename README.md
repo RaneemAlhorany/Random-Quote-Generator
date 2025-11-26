@@ -1,5 +1,9 @@
 # Random-Quote-Generator
 
+It's stage 1 in your PHP language learning journey
+
+project (3) : Random-Quote-Generator
+
 goal :
 
     Create a Random Quote Generator using PHP
